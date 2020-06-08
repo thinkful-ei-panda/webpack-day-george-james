@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-panda/webpack-day-george-james/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-panda/webpack-day-george-james#readme"
+  "homepage": "https://github.com/thinkful-ei-panda/webpack-day-george-james#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
